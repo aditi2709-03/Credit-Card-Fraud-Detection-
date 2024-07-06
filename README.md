@@ -7,3 +7,11 @@ fraud transactions accurately and should make the best decision of the message.
 The operations involves data pre-processing, feature engineering and applying
 different Machine Learning algorithms to find the best model.
 
+
+
+
+
+
+
+
+Download the dataset via this link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
